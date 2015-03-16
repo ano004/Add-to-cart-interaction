@@ -25,7 +25,7 @@ body {
 
 #header{
 	height:92px; 
-	background:#fff url("/demo/img/header-icons.png") 1448px -2px no-repeat;
+	background:#fff url("/add-to-cart-interaction/demo/img/header-icons.png") 1448px -2px no-repeat;
 	border-bottom:1px solid #eee;
 }
 #header ul{padding:33px 0 0 45px;}
@@ -69,7 +69,7 @@ body {
   	 display:block;
 	 width:25px;	
 	 height:25px;
-	 background: url("/demo/img/grid-menu.png") 0 0  no-repeat;
+	 background: url("/add-to-cart-interaction/demo/img/grid-menu.png") 0 0  no-repeat;
 }
 #grid-menu li.smallGrid{margin-right:7px;}
 #grid-menu li.smallGrid a{background-position:0 0;}
@@ -725,7 +725,7 @@ body.MakeFloatingCart div.floating-cart.moveToCart{
 }
 div.cart-icon-top{
 	position:absolute;
-	background:#fff url("/demo/img/cart.png") 0 -3px no-repeat;
+	background:#fff url("/add-to-cart-interaction/demo/img/cart.png") 0 -3px no-repeat;
 	margin:0;
 	width:21px;
 	height:3px;
@@ -735,7 +735,7 @@ div.cart-icon-top{
 }
 div.cart-icon-bottom{
 	position:absolute;
-	background:#fff url("/demo/img/cart.png") 0 -3px no-repeat;
+	background:#fff url("/add-to-cart-interaction/demo/img/cart.png") 0 -3px no-repeat;
 	margin:0;
 	width:21px;
 	height:19px;
@@ -780,7 +780,7 @@ body.MakeFloatingCart div.cart-icon-bottom{z-index:300;}
 .cart-item span{color: #393c45; display:block; font-size:14px}
 
 .cart-item .delete-item{
-	background:url("/demo/img/delete-item.png") 0 0 no-repeat;
+	background:url("/add-to-cart-interaction/demo/img/delete-item.png") 0 0 no-repeat;
 	width:15px;
 	height:15px;
 	float:right;
